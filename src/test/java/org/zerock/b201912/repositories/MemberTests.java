@@ -4,9 +4,6 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import java.util.stream.IntStream;
 
-import javax.transaction.TransactionScoped;
-
-import org.assertj.core.util.Arrays;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
